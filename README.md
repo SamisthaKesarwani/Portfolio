@@ -1,54 +1,59 @@
-# 💫 Samistha's Portfolio
+# 🌐 Samistha Kesarwani – Portfolio
 
-My personal portfolio website — where I showcase my data science and machine learning work, and a bit about who I am beyond the code.
+Welcome to my personal portfolio website! This repository contains the source code for my portfolio, where I showcase my projects, technical skills, certifications, education, and experience in **Data Analytics, Machine Learning, and Artificial Intelligence**.
 
-🔗 **Live site:** [samistha-portfolio.vercel.app](https://samistha-portfolio.vercel.app)
+## 🚀 Live Website
 
----
+**Portfolio:** https://samistha-portfolio.vercel.app/
 
-## 👋 About Me
+## 👩‍💻 About Me
 
-I'm a final-year B.Tech (Honours) student in Data Science and Analytics at United University, Prayagraj, graduating in 2027. I'm currently building out my portfolio and applying for internships — I love turning messy data into something that actually tells a story.
+I'm **Samistha Kesarwani**, a final-year B.Tech (Honours) student in **Data Science & Analytics** with a strong interest in turning raw data into meaningful insights through analytics, visualization, and machine learning.
 
-Off the projects, I'm someone who genuinely enjoys meeting people and hearing new perspectives — I'm probably asking someone about their life when I'm not building dashboards or training models.
+I enjoy building data-driven applications, interactive dashboards, and AI-powered solutions while continuously learning new technologies.
 
----
+## ✨ Features
 
-## 🛠️ Built With
+* Responsive modern portfolio website
+* About Me section
+* Experience timeline
+* Featured projects
+* Technical skills
+* Certifications
+* Achievements
+* Education
+* Contact form
+* GitHub, LinkedIn, and Email integration
 
-- HTML5
-- CSS3
-- JavaScript (vanilla, no frameworks)
+## 🛠️ Technologies Used
 
----
+* HTML5
+* CSS3
+* JavaScript
+* Font Awesome
+* Google Fonts
+* Formspree (Contact Form)
 
 ## 📂 Featured Projects
 
-- **Movie Recommender System** — TF-IDF & Cosine Similarity based recommender, deployed live with Streamlit
-- **Power BI Sales Performance Dashboard** — Superstore dataset, with custom DAX measures
-- **Sonar Object Classification Model** — includes confidence-based unknown detection
-- **Diabetes Prediction Model** — built with SVM, ~77% test accuracy
-- **Titanic Survival Prediction** — Kaggle competition entry using Random Forest
-- **Chatterbox** — a React + Vite chatbot powered by the Gemini API, with conversation history and Markdown rendering
+* 🌿 Leafie – Crop Disease Detection using Deep Learning
+* 📊 Sales Performance & Revenue Dashboard (Power BI)
+* 🎬 CineFans – Movie Recommendation System
+* ❤️ Diabetes Prediction using Support Vector Machine
+* 🌊 Sonar Object Classification
 
-*(See my [GitHub](https://github.com/SamisthaKesarwani) for the full list of repos.)*
+## 📬 Contact
 
----
+* **Email:** [samisthakesarwani444@gmail.com](mailto:samisthakesarwani444@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/samistha-kesarwani-55393625b/
+* **GitHub:** https://github.com/SamisthaKesarwani
 
-## 🎓 Certifications & Learning
+## ⭐ Support
 
-- GenAI Powered Data Analytics Job Simulation — TATA (Forage)
-- Data Labeling Job Simulation — Forage
-- Exploratory Data Analysis — NASSCOM FutureSkills Prime (Gold, 95%)
-- Mastering Power BI: Data Analysis and Dashboard Creation — MSDE Skill India
-- AI - Data Engineering Analyst — MSDE Skill India
+If you like this portfolio or find it inspiring, feel free to **star ⭐ this repository**.
 
----
-
-## 📬 Get in Touch
-
-Feel free to connect with me on [GitHub](https://github.com/SamisthaKesarwani) or check out the live portfolio for more ways to reach me.
+Feedback, suggestions, and contributions are always welcome.
 
 ---
 
-*Note: This repo contains the site's source code. The live deployment (with my photo and resume) is hosted separately.*
+© 2026 Samistha Kesarwani. All Rights Reserved.
